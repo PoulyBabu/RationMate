@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023310618257",
+    "project_id": "rationmate",
+    "storage_bucket": "rationmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023310618257:android:27aa046bc8cd6e17b76930",
+        "android_client_info": {
+          "package_name": "com.rationmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023310618257-2366vqamsg7a54ouberhag0ephvp2cfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rationmate",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1023310618257-um13v3mtcd2n9ur9a2m8a8draijk2h5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUQ3mA3at68LKf4z4g5qBIy1kVaLytrhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023310618257-um13v3mtcd2n9ur9a2m8a8draijk2h5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
